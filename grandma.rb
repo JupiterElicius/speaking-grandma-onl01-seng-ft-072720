@@ -1,2 +1,2 @@
-def speak_to_grandma (phrase = "HUH?! SPEAK UP, SONNY!")
+def speak_to_grandma (phrase)
   if 
